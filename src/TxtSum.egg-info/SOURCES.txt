@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/TxtSum/__init__.py
+src/TxtSum.egg-info/PKG-INFO
+src/TxtSum.egg-info/SOURCES.txt
+src/TxtSum.egg-info/dependency_links.txt
+src/TxtSum.egg-info/top_level.txt
+src/TxtSum/components/__init__.py
+src/TxtSum/config/__init__.py
+src/TxtSum/config/configuration.py
+src/TxtSum/constants/__init__.py
+src/TxtSum/entity/__init__.py
+src/TxtSum/logging/__init__.py
+src/TxtSum/pipeline/__init__.py
+src/TxtSum/utils/__init__.py
+src/TxtSum/utils/common.py
